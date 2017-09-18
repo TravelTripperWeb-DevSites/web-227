@@ -1,0 +1,41 @@
+{
+  "gallery_name": "Hotel Outside View Gallery",
+   "photos": [
+      {
+        "name": "Octopus-employees-only-miami",
+        "file_name": "Octopus-employees-only-miami.jpg",
+        "file_type": "image/jpeg",
+        "url": "https://cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-014907/Octopus-employees-only-miami.jpg",
+        "date_added": "2017-08-08-014908",
+        "tags": "",
+        "file_size": 88153.0,
+        "width": 1000,
+        "height": 667,
+        "description": "",
+        "url_large": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-014907/large_Octopus-employees-only-miami.jpg",
+        "url_medium": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-014907/medium_Octopus-employees-only-miami.jpg",
+        "url_small": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-014907/small_Octopus-employees-only-miami.jpg",
+        "url_xsmall": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-014907/xsmall_Octopus-employees-only-miami.jpg",
+        "url_thumb": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-014907/thumb_Octopus-employees-only-miami.jpg"
+      },
+      {
+        "name": "splendid-rags-martone-bikes-wph",
+        "file_name": "splendid-rags-martone-bikes-wph.jpg",
+        "file_type": "image/jpeg",
+        "url": "https://cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-020744/splendid-rags-martone-bikes-wph.jpg",
+        "date_added": "2017-08-08-020745",
+        "tags": "",
+        "file_size": 204021.0,
+        "width": 1000,
+        "height": 667,
+        "description": "",
+        "url_large": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-020744/large_splendid-rags-martone-bikes-wph.jpg",
+        "url_medium": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-020744/medium_splendid-rags-martone-bikes-wph.jpg",
+        "url_small": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-020744/small_splendid-rags-martone-bikes-wph.jpg",
+        "url_xsmall": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-020744/xsmall_splendid-rags-martone-bikes-wph.jpg",
+        "url_thumb": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-020744/thumb_splendid-rags-martone-bikes-wph.jpg"
+      }
+   ],
+  "gallery_description": "Ordered photos of Hotel Outside View",
+  "other_meta_data": "Need to add"
+}
