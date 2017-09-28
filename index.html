@@ -5,5 +5,6 @@ title: Region Example
 
 Regions:
 <hr/>
-{% region region1 %}
-{% region region2 %}
+{% regionblock test_image_content, type:image, suggested_height:100, suggested_width:50 %}
+       <img src="https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-071129/download.jpeg"/>
+{% endregionblock%}
