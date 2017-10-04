@@ -34,8 +34,25 @@
       "url_small": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-014907/small_Octopus-employees-only-miami.jpg",
       "url_xsmall": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-014907/xsmall_Octopus-employees-only-miami.jpg",
       "url_thumb": "//cdn.traveltripper.io/site-assets/358_382_6050/media/2017-08-08-014907/thumb_Octopus-employees-only-miami.jpg"
+    },
+    {
+      "name": "download",
+      "file_name": "download",
+      "file_type": "image/jpeg",
+      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-071129/download.jpeg",
+      "date_added": "download",
+      "tags": "",
+      "file_size": "12988",
+      "width": "276",
+      "height": "183",
+      "description": "",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-071129/large_download.jpeg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-071129/medium_download.jpeg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-071129/small_download.jpeg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-071129/xsmall_download.jpeg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-071129/thumb_download.jpeg"
     }
   ],
-  "gallery_description": "Ordered photos of Hotel Outside View",
-  "other_meta_data": "Need to add"
+  "gallery_description": "",
+  "other_meta_data": ""
 }
