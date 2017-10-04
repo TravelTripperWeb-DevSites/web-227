@@ -23,18 +23,21 @@ module Jekyll
 
       region_type = @options['type'] || 'html'
       region_classes = get_region_classes(context)    
-      
-      wrap('div', 'class' => 'tt-region', 'data-region' => File.join(site.active_lang, page_folder, @filename), 'data-region-type' => region_type, 'data-region-classes'=>region_classes) do
-        if region_items.size == 0
-          #empty_region_content(include_data_path, context)
-          empty_region_content(context)
-        else
-          region_items.each_with_index.map do |ped, index|
-            #include(include_data_path, context, index, ped)
-            include(context, index, ped)
-          end.join
+      suggested_height = @options['suggested_height']
+      suggested_width = @options['suggested_width']
+
+      #image_data = ['data-suggested-width' => suggested_width, 'data-suggested-height'=> suggested_height] if region_type == 'image'
+
+      if region_type == 'image'
+        wrap('div', 'class' => 'tt-region', 'data-region' => File.join(site.active_lang, page_folder, @filename), 'data-suggested-width' => suggested_width, 'data-suggested-height'=> suggested_height, 'data-region-type' => region_type, 'data-region-classes'=>region_classes) do
+          region_content(region_items, context)
+        end
+      else
+        wrap('div', 'class' => 'tt-region', 'data-region' => File.join(site.active_lang, page_folder, @filename), 'data-region-type' => region_type, 'data-region-classes'=>region_classes) do
+          region_content(region_items, context)
         end
       end
+
     rescue Exception => error
       print error.message, "\n"
       print error.backtrace.join("\n")
@@ -111,6 +114,18 @@ module Jekyll
           '{{include.instance.content}}'
         else
           nil
+      end
+    end
+
+    def region_content(region_items, context)
+      if region_items.size == 0
+          #empty_region_content(include_data_path, context)
+          empty_region_content(context)
+        else
+          region_items.each_with_index.map do |ped, index|
+            #include(include_data_path, context, index, ped)
+            include(context, index, ped)
+          end.join
       end
     end
   end
