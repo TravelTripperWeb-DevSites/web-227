@@ -2,23 +2,6 @@
   "gallery_name": "eve",
   "photos": [
     {
-      "name": "yellow flower",
-      "file_name": "yellow flower",
-      "file_type": "image/jpeg",
-      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-25-085559/yellow-flower.jpg",
-      "date_added": "yellow flower",
-      "tags": "",
-      "file_size": "64278",
-      "width": "800",
-      "height": "720",
-      "description": "",
-      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-25-085559/large_yellow_flower.jpg",
-      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-25-085559/medium_yellow_flower.jpg",
-      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-25-085559/small_yellow_flower.jpg",
-      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-25-085559/xsmall_yellow_flower.jpg",
-      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-25-085559/thumb_yellow_flower.jpg"
-    },
-    {
       "name": "images",
       "file_name": "images",
       "file_type": "image/jpeg",
@@ -34,6 +17,23 @@
       "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-10-09-080428/small_images.jpeg",
       "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-10-09-080428/xsmall_images.jpeg",
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-10-09-080428/thumb_images.jpeg"
+    },
+    {
+      "name": "yellow flower",
+      "file_name": "yellow flower",
+      "file_type": "image/jpeg",
+      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-25-085559/yellow-flower.jpg",
+      "date_added": "yellow flower",
+      "tags": "",
+      "file_size": "64278",
+      "width": "800",
+      "height": "720",
+      "description": "",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-25-085559/large_yellow_flower.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-25-085559/medium_yellow_flower.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-25-085559/small_yellow_flower.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-25-085559/xsmall_yellow_flower.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-25-085559/thumb_yellow_flower.jpg"
     }
   ],
   "gallery_description": "",
