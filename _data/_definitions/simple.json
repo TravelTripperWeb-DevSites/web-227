@@ -4,5 +4,7 @@
   },
   "desc":{
     "type": "richtext"
-  }
+  },
+  "upload" : {
+    "type": "image"
 }
