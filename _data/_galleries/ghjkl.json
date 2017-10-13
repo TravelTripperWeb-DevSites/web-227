@@ -19,23 +19,6 @@
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-10-09-080428/thumb_images.jpeg"
     },
     {
-      "name": "fruits",
-      "file_name": "fruits",
-      "file_type": "image/jpeg",
-      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-070936/fruits.jpeg",
-      "date_added": "fruits",
-      "tags": "",
-      "file_size": "14640",
-      "width": "259",
-      "height": "194",
-      "description": "",
-      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-070936/large_fruits.jpeg",
-      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-070936/medium_fruits.jpeg",
-      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-070936/small_fruits.jpeg",
-      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-070936/xsmall_fruits.jpeg",
-      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-070936/thumb_fruits.jpeg"
-    },
-    {
       "name": "Screen Shot 2017-09-05 at 10.12.53 AM",
       "file_name": "Screen Shot 2017-09-05 at 10.12.53 AM",
       "file_type": "image/png",
@@ -51,6 +34,23 @@
       "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-10-06-135556/small_Screen_Shot_2017-09-05_at_10.12.53_AM.png",
       "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-10-06-135556/xsmall_Screen_Shot_2017-09-05_at_10.12.53_AM.png",
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-10-06-135556/thumb_Screen_Shot_2017-09-05_at_10.12.53_AM.png"
+    },
+    {
+      "name": "fruits",
+      "file_name": "fruits",
+      "file_type": "image/jpeg",
+      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-070936/fruits.jpeg",
+      "date_added": "fruits",
+      "tags": "",
+      "file_size": "14640",
+      "width": "259",
+      "height": "194",
+      "description": "",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-070936/large_fruits.jpeg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-070936/medium_fruits.jpeg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-070936/small_fruits.jpeg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-070936/xsmall_fruits.jpeg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-09-26-070936/thumb_fruits.jpeg"
     }
   ],
   "gallery_description": "",
