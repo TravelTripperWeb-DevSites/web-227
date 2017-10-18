@@ -2,23 +2,6 @@
   "gallery_name": "test gallery",
   "photos": [
     {
-      "name": "pdf",
-      "file_name": "pdf",
-      "file_type": "application/pdf",
-      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-10-09-023610/pdf.pdf",
-      "date_added": "pdf",
-      "tags": "",
-      "file_size": "433994",
-      "width": "",
-      "height": "",
-      "description": "",
-      "url_large": null,
-      "url_medium": null,
-      "url_small": null,
-      "url_xsmall": null,
-      "url_thumb": null
-    },
-    {
       "name": "images",
       "file_name": "images",
       "file_type": "image/jpeg",
