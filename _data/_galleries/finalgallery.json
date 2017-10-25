@@ -19,23 +19,6 @@
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-10-06-135556/thumb_Screen_Shot_2017-09-05_at_10.12.53_AM.png"
     },
     {
-      "name": "pdf",
-      "file_name": "pdf",
-      "file_type": "application/pdf",
-      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-10-09-023610/pdf.pdf",
-      "date_added": "pdf",
-      "tags": "",
-      "file_size": "433994",
-      "width": "",
-      "height": "",
-      "description": "",
-      "url_large": null,
-      "url_medium": null,
-      "url_small": null,
-      "url_xsmall": null,
-      "url_thumb": null
-    },
-    {
       "name": "SampleVideo_1280x720_1mb",
       "file_name": "SampleVideo_1280x720_1mb",
       "file_type": "video/mp4",
@@ -51,6 +34,23 @@
       "url_small": "",
       "url_xsmall": "",
       "url_thumb": ""
+    },
+    {
+      "name": "pdf",
+      "file_name": "pdf",
+      "file_type": "application/pdf",
+      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-10-09-023610/pdf.pdf",
+      "date_added": "pdf",
+      "tags": "",
+      "file_size": "433994",
+      "width": "",
+      "height": "",
+      "description": "",
+      "url_large": null,
+      "url_medium": null,
+      "url_small": null,
+      "url_xsmall": null,
+      "url_thumb": null
     }
   ],
   "gallery_description": "",
