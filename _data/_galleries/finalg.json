@@ -68,6 +68,23 @@
       "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-10-25-034908/small_download.jpeg",
       "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-10-25-034908/xsmall_download.jpeg",
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-10-25-034908/thumb_download.jpeg"
+    },
+    {
+      "name": "pdf",
+      "file_name": "pdf",
+      "file_type": "application/pdf",
+      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_4_15/media/2017-10-09-023610/pdf.pdf",
+      "date_added": "pdf",
+      "tags": "",
+      "file_size": "433994",
+      "width": "",
+      "height": "",
+      "description": "",
+      "url_large": null,
+      "url_medium": null,
+      "url_small": null,
+      "url_xsmall": null,
+      "url_thumb": null
     }
   ],
   "gallery_description": "",
